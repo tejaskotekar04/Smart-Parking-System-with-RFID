@@ -17,3 +17,5 @@ Components-:
 
 7) 25 V Capacitor (Optional)
 
+Development-: Arduino IDE
+
